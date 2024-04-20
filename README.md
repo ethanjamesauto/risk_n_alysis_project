@@ -1,29 +1,25 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
-
+Henry Pritchard Computer Engineering Student (2024)
+epritchard@vt.edu
 ## Mentor
-MENTOR NAME HERE
+Eddie Pritchard (epritchard@vt.edu)
 
 ## Current Status
-IN PROGRESS
+IN PROGRESS, WORKING ON THIS PROJECT AT THIS MOMENT
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
-
+This is a machine learning recurrent neural network type project where the stock brice is analized based off the previous stock price. 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+To be honest, this might not be the most beneficial project to society. Stocks exchanges are a tax upon society as trading on exchanges creates or adds no value to the commodity being traded.
 
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
+write code
 ## Design Decisions
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
+decide to work on it or not
 ## Design Misc
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
